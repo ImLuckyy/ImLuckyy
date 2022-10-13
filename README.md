@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gurdeep singh</h1>
-<h3 align="center">A Uni student that is studying game develoo</h3>
+<h3 align="center">An University  student that is studying game development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imluckyy&label=Profile%20views&color=0e75b6&style=flat" alt="imluckyy" /> </p>
 
